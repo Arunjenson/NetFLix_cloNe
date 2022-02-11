@@ -85,6 +85,8 @@ body{
     margin: 0 0 12px;
     padding: 16px;
     border: 0;
+    text-align: center;
+    text-decoration: none;
     color: white;
     cursor: pointer;
   }
@@ -117,6 +119,10 @@ body{
     font-size: 13px;
     line-height: normal;
     color: #8c8c8c;
+  }
+  .sign-form-Button a{
+    color: white;
+    text-decoration: none;
   }
 
 .footer-wrapper {
